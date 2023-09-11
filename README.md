@@ -14,7 +14,9 @@ Repository Link: https://github.com/visalus90/Walk-Through-Laracast-sections-1-4
 
     <h1>
         <?php
-            echo "Hello, World";
+            $greeting = "Hello";
+            
+            echo '$greeting Everybody!'
             
             ?>
     </h1>
